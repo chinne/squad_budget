@@ -1,0 +1,19 @@
+# Ignore all zip files
+*.zip
+
+# Ignore PDF files (both upper and lowercase extensions)
+*.PDF
+*.pdf
+
+# Ignore CSV files
+*.csv
+
+# Ignore specific folders
+invoices/
+sap/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+.idea
